@@ -38,12 +38,6 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
-## 🙌 Contributing
-
-Contributions, bug reports, and feature requests are welcome. Please open an issue to discuss changes before submitting pull requests.
-
----
-
 ## 📧 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out:
